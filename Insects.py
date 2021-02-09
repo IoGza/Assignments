@@ -5,7 +5,7 @@ def main():
 
     mosquitoe = i.Insect()
 
-    print(mosquitoe.__init__())
+    print(mosquitoe.flightLength())
 
 
 main()
