@@ -5,7 +5,7 @@ def main():
 
     mosquitoe = i.Insect()
 
-    print(mosquitoe.flightLength())
+    print("A mosqitoe and can fly for", mosquitoe.flightLength(), "mile(s)")
 
 
 main()
