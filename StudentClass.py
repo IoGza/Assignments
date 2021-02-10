@@ -13,7 +13,7 @@ class Student:
     def current_age(self):
         today = datetime.today()
         age = today.year - self.dob
-        return age
+        return today.year - dob.
 
     def registerDate(self):
         if self.classification == "Senior":
